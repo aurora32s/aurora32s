@@ -1,6 +1,4 @@
 ### 안녕하세요. 🙌🏻 새내기 개발자 ***진연주*** 입니다.
-
-### 방문자
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faurora32s&count_bg=%235E5E5E&title_bg=%23FF004D&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### GitHub State
