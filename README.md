@@ -3,6 +3,12 @@
 ### 방문자
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faurora32s&count_bg=%235E5E5E&title_bg=%23FF004D&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+### GitHub State
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aurora32s&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+### Baejoon[![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=aurora32s)](https://solved.ac/aurora32s)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aurora32s)](https://solved.ac/aurora32s)
+
 ### 사용기술
 ![Android](https://img.shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=Kotlin&logoColor=white)
